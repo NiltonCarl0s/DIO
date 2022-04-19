@@ -1,0 +1,72 @@
+
+
+body {
+    background: coral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 90rem;
+    margin: auto;
+}
+#title, .sub_title {
+    color: rgb(241, 211, 171);
+}
+
+#title {
+    font-size: 2rem;
+    text-transform: uppercase;
+    margin: 0 0 .5rem 1.5rem;
+}
+
+.post_title {
+    color: coral;
+}
+
+.foto {
+    border: .1rem solid rgb(241, 211, 171);
+    border-radius: 50%;
+    margin: 0rem 0 0rem 1.5rem;
+} 
+
+.sub_title {
+    font-size: 1.5rem;
+    margin-left: 1.5rem;
+    
+}
+
+
+
+.post_title {
+    font-size: 2rem;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 1rem;
+}
+
+.post {
+    background: #fff;
+    padding: 1rem;
+    border: 0.3rem solid rgb(240, 60, 36);
+    margin: 1.5rem;
+    border-radius: 2%;
+}
+
+.post_content {
+    color: coral;
+    text-transform: capitalize;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.post_imagem {
+    margin-bottom: 1rem;
+    
+}
+
+.contact_list {
+    list-style-type: none;
+}
+
+.contact_list li a {
+    text-decoration: none;
+    color: rgb(241, 211, 171);
+}
+
